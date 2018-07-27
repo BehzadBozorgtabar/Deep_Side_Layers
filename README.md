@@ -12,7 +12,7 @@ Caffe Version:
  
 ## <a name="Citing"></a>Citing
 
-If you use Densepose, please use the following BibTeX entry.
+If you use this code, please use the following BibTeX entry.
 
 ```
   @inproceedings{bozorgtabar2017investigating,
