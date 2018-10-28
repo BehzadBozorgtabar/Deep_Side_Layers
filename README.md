@@ -1,4 +1,4 @@
-# Skin Lesion Segmentation Using Deep Side-layers
+# Skin Lesion Segmentation Using Multi-Scale Feature Fusion 
 
 In this work, two different fully convolutional net architectures are presented with multiple side-outputs to take advantage of features with varying resolutions. 
 In addition, the coarse segmentation predicted by the Fully Convolutional Network (FCN) is combined in the fusion step to provide an accurate segmentation.
